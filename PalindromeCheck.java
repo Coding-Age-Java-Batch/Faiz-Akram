@@ -1,5 +1,5 @@
 package Stringgg;
-public class Palindrome {
+public class PalindromeCheck {
     public static boolean isPalindrome(String s) {
         String rev = "";
 
